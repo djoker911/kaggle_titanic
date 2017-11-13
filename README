@@ -1,0 +1,7 @@
+78.9% when using Multi-layer perceptron.
+76.5% when using Naive Bayes.
+
+Using whole data on wiki when observing data, 
+but do the competition on kaggle's training data and testing data.
+
+76% when guessing all the female is survived
